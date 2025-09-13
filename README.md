@@ -1,6 +1,8 @@
 # WenElevating.MapMcpServer
 This project is an MCP service implemented based on the Gaode Map API.
 
+## [中文版](https://github.com/WenElevating/WenElevating.MapMcpServer/blob/master/README_CN.md)
+
 ## How to start?
 1. Add the key to the system environment variable
 You need to put the Amap key into the system environment variable and set its name to "GaoDeMapKey", because this key is obtained in the tool through "GaoDeMapKey". **If you don't set the key, you won't be able to do anything!**
