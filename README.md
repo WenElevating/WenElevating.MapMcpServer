@@ -20,8 +20,8 @@ You need to add an Mcp configuration file to enable the model to recognize the t
     }
   }
 }
-In fact, the model started the Mcp service through the terminal
 ```
+In fact, the model started the Mcp service through the terminal
 
 ## List of supported amap apis
 - Locate the geographical location of the IP
