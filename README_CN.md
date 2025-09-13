@@ -37,7 +37,6 @@
 
 
 ## 谢谢
-**本项目的成功依赖于以下项目：**
+**本项目的离不开以下项目的支持：**
 [Modelcontextprotocol](https://github.com/modelcontextprotocol)
-
 [Trace](https://www.trae.ai/)
